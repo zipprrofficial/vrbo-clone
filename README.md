@@ -1,4 +1,4 @@
-A <a href="https://zipprr.com/category/vrbo-clone/">Vrbo clone script</a> is a vacation rental marketplace platform that allows property owners to list and rent their spaces like apartments, villas, cabins etc. to travelers, similar to Vrbo.
+A <a href="https://zipprr.com/vrbo-clone/">Vrbo clone script</a> is a vacation rental marketplace platform that allows property owners to list and rent their spaces like apartments, villas, cabins etc. to travelers, similar to Vrbo.
 
 <h2><b>Key Features</b></h2>
 
